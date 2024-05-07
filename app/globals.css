@@ -16,6 +16,9 @@
   }
 }
 
+.icon{
+  height: fit-content;
+}
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
